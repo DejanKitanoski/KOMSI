@@ -1,1 +1,6 @@
 dasadasdasfasfasfasfasf
+safasfas
+git fetch origin
+git checkout 1-asfasfasfasf
+//фасфасфсаф
+/asiydujkasyukld/
